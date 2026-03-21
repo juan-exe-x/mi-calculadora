@@ -8,4 +8,5 @@ public class Divide implements Operate {
         }
         return div;
     }
+     System.out.println("Modificacion de juan hincapie")
 }
