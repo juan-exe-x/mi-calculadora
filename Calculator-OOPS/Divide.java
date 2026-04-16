@@ -1,5 +1,5 @@
 public class Divide implements Operate {
-    @Override
+    @Override NICOL
     public Double getResult(Double... numbers){
         Double div = numbers[0];
 
